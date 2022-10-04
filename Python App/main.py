@@ -3,6 +3,9 @@ from kivy.lang.builder import Builder
 from kivy.uix.screenmanager import ScreenManager, Screen
 import colorama
 import webbrowser
+from kivy.core.window import Window
+
+Window.size = (450, 700)
 
 colorama.init()
 
