@@ -1,9 +1,9 @@
-# Python-App-
-This app is built using python Kivy.
+# Python-App
+This app is built using python Kivy. A all in one coding.
 
 This app basically consists of a login page and this app is based on educational purposes for programmers. In this app you can learn about 12 programming languages including termux & ardunio. The programming is done using python kivy,kivymd. In python app creation can easily be done using kivy, which is very easy to understand and simple.
 
-SCREENSHOTS:
+# SCREENSHOTS:
 
 ![Tech_Machine 03-10-2022 21_34_54](https://user-images.githubusercontent.com/85097081/193731919-8a8bec9e-709c-4c9c-b7fe-7586b5a435ad.png)
 
