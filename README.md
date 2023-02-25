@@ -29,3 +29,5 @@ Companies and individual are using Kivy for their projects everyday.
 
 For any clarification you can contact through my website: 
 https://techmachine.data.blog/
+
+And do check out my new projects.
