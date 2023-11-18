@@ -1,4 +1,4 @@
-# Python-App
+# Programming learning app
 This app is built using python Kivy. A all in one coding.
 
 This app basically consists of a login page and this app is based on educational purposes for programmers. In this app you can learn about 12 programming languages including termux & ardunio. The programming is done using python kivy,kivymd. In python app creation can easily be done using kivy, which is very easy to understand and simple.Kivy is the main framework developed by the Kivy organization, alongside Python for Android, Kivy iOS, and several other libraries meant to be used on all platforms. In 2012, Kivy got a $5000 grant from the Python Software Foundation for porting it to Python 3.3. Kivy also supports the Raspberry Pi which was funded through Bountysource.
